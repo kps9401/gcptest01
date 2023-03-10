@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "global-pagoda-379200",
+  "private_key_id": "223d239b49744fd966b9b65592f2242fa66c78c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDkT8AnIhl8sFJ\nqUrkuriZVry9r0H1B1GWOf78t8oCDleAEO8YNuam+V2xPoISTYIXQKiljkUONHnt\nADogZn7Byq2ekPF/tUC32YTvMnI0D9d40WeqQTRVmdQmZrvMh5AvfKoFDMCCbgZe\nm7yWyzLEeLZebZmiAFm3g0r6pab5Lmks5BO10jmLHuOjuwa7nBaQCdvKbaeTYhQX\nBDoLAMvw80HUw668MtLp2nHxxq3UizCQ7vjMGVaui267eNMWhJ7GeHeIrjimefZZ\naCUXEwcMOIhh99U/r1tRl7MMCxe7B6O1E9jguvmWXkeRo5JWIG+f/4HZjWf4fkdh\ndMyRu4IfAgMBAAECggEAGrIO+ZRkghYbEGUNlh9u52+RoAr2Y+410t3j0rd72b//\nbbniCVolLhHIGlPACaOO6IGpA8Bh6Mh9BD8NsDKNhwKVpJmAfcBOL0p//O7T7Atl\njFZ5YiI4dJ7k+MD5TbgLlI/d3YaaGLPQJsX3flYKfgtESauIVzbZCFXhvEk0e7r+\n43qUtT9cp8DZ+PUMxZQ2VURd7zzTmGO9bVY0UVlsq/2mrjJHqhSIgXGoSDDgnLok\nskruJqqOsdJBpIDfSmf05M3lR6hXKk27S5VVSfL8DAU9cXLr8PZge54HKnIe/Nfn\nlCr5MEiQVzMQv2eMi5/H59WPIHFavsUrNRyr/5P+cQKBgQDvKbXtWRkksiv5b39k\nzEGEwP2hBUChXCmw8Gi4v+HnXXuJ6GBYLWfrABi8rVeUhZGfItO23/3i8VEsP88J\niYHe1cys3g2byZ5ImfH/02fejJ75PspmYky7sP3ywShaGAJFEUeUcaJhKb5wUkXR\n4qAAo0At/eJFetddNbBYnNkYLQKBgQDRVdbANR3BfD8n9pCECq7Cwd1DxFpUEvQ6\nmXuxnDnn6Ykns9Cn3+KVU9xUNKlz6yPhFcAhilWPqF4o4OR0z3qdPE8+ocRqps4g\nSg9jfxFgCs8k1lx+1f5BBcXMLutmKISzDi1LYV4Ouu9lK44r9QJOmtaX9uW04y8+\nH2ie36bG+wKBgA2iOxTEt4I4Bfm6OXDtk+6Vcd/0BLMuJdJIYi/mAGLIGXrLHHLq\nY7opzz8yQoPc+Wgw/BC4xChjyVTUbmEEzbp+RaS1I+F1pOhOnlUPICS3r3hV9APS\nJr2sYU2tZTd9luOJEKONtswDLTAKAKDuYmCm7cmxZ2y+i/hsTxk+F8IhAoGBAM3a\nir8ivKsrgnPLHNwsISU2PV9JtMYeiXsiuae0CKGNXyniwtqC6K+N8wn/a2+pmPPc\nTr7s6SzHFik+1ookCeCbkRX3QE7cz7CjA7UFHNIEbyU7g2PbDhdlFNiwfx5L1Aq8\nc0BAdJ0pqQclKL8DRgyEaWixC7yw+CEwA9LP/pKHAoGAJzDBFpxJ57qaUFDmT5N+\nMxZdcGOYxbFyhKzr94CmbOVSplbs48dEw28RVYm9amDy6qWgPQyBldTUH+ANyUqC\naOa4ScUybEFLK66VdMJ46gAR3kbNFN558qvMH6nnVL1+6Hfm6/vj3jt08m2dBV5s\nrc4uQSntV7NEuZbagEyPa8Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-terraform-pil@global-pagoda-379200.iam.gserviceaccount.com",
+  "client_id": "108825954913425542089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-terraform-pil%40global-pagoda-379200.iam.gserviceaccount.com"
+}
